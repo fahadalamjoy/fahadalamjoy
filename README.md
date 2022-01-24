@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Intern Software Engineer at Brandmyth Digital](brandmythdigital.com/#)**
+- 🔭 I’m currently working at **[Intern Software Engineer at Brandmyth Digital](brandmythdigital.com/#)**
 
 - 🌱 I’m currently learning **Vue.js php(laravel) Graphql**
 
@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://portfolioo-page.netlify.app/)**
 
-- 📫 How to reach me **jfahadalm@gmail.com**
+- 📫 How to reach me **jfahadalam@gmail.com**
 
 <!-- - ⚡ Fun fact **I play games and go to the GYM very often.** -->
 ## Connect with me:
