@@ -53,6 +53,7 @@
   <br/>
     
   <a href="https://github.com/fahadalamjoy/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadalamjoy&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://app.daily.dev/fahadalamjoy"><img src="https://api.daily.dev/devcards/e0929c484c6a49659ee4382f7cbfe33a.png?r=ios" width="400" alt="Fahad Alam Joy's Dev Card"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
