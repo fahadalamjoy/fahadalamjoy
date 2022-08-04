@@ -7,13 +7,6 @@
 ## 🙋‍♂️ About Me
 
 
-
-
-
-- 👯 My Personal Website **[Website](https://fahadalamjoy.netlify.app/)**
-
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://portfolioo-page.netlify.app/)**
-
 - 📫 How to reach me **jfahadalam@gmail.com**
 
 <!-- - ⚡ Fun fact **I play games and go to the GYM very often.** -->
