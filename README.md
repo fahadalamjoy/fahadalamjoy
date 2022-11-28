@@ -61,10 +61,3 @@
 <br/>
 <br/>
 
-
-
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=fahadalamjoy">
-</a>
-<a href="https://github.com/fahadalamjoy?tab=followers"><img src="https://img.shields.io/github/followers/fahadalamjoy?label=Followers&style=social" alt="GitHub Badge"></a>
